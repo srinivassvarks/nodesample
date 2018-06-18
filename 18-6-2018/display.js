@@ -29,5 +29,5 @@ app.get("/showDetails", function (req, res) {
         }
     });
 });
-console.log("running in port 3000")
+
 app.listen(3000);
